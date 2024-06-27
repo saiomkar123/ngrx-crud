@@ -7,9 +7,12 @@ import { Component, OnInit } from '@angular/core';
 })
 export class AssociatelistingComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+    // ToDo
+  }
 
   ngOnInit(): void {
+    console.log("associatelisting");
   }
 
 }

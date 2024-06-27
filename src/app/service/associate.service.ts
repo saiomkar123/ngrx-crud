@@ -5,5 +5,7 @@ import { Injectable } from '@angular/core';
 })
 export class AssociateService {
 
-  constructor() { }
+  constructor() {
+    console.log("associate service")
+  }
 }
